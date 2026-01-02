@@ -1,8 +1,13 @@
 Hey, i'm MEET
 
 A Fullstack web developer from india
-if you are interested in coding and tech stuff then let's connect on linkedIn
-you can find the link below
+
+My main tech stack are React, node, express, Mongo and SQL
+
+If you are a tech person too than we can have a nice chat
+
+my socails are down below, fill free to connect
+
 
 btw i love music too!!
 
