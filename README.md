@@ -1,4 +1,9 @@
-## Hi there 👋
+Hey, i'm MEET
+A Fullstack web developer from india
+if you are interested in coding and tech stuff then let's connect on linkedIn
+you can find the link below
+
+btw i love music too!!
 
 <!--
 **zxzxmeett/zxzxmeett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
