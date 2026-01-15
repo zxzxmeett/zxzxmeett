@@ -1,6 +1,4 @@
-Hey, i'm MEET
-
-A Fullstack web developer from india
+Hey, i'm MEET<br>A Fullstack web developer from india
 
 My main tech stack are React, node, express, Mongo and SQL
 
