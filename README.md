@@ -1,4 +1,4 @@
-Hey, i'm MEET<br>A Fullstack web developer from india<br>My main tech stack are React, node, express, Mongo and SQL<br>If you are a tech person too then we can have a nice chat<br>my socails are down below, fill free to connect
+Hey, i'm MEET<br>A Fullstack web developer from india<br>My main tech stack are React, node, express, Mongo and SQL<br>If you are a tech person too then we can have a nice chat<br>my socials are down below, fill free to connect
 
 btw i love music too!!
 
